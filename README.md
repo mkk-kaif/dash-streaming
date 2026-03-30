@@ -99,3 +99,24 @@ dash-streaming/
 ├── results/
 ├── docs/
 └── report-assets/
+```
+## VM setup
+<img width="725" height="734" alt="Screenshot 2026-03-28 213807" src="https://github.com/user-attachments/assets/2b3c8a26-3fe4-4588-b457-d44d07f6544e" />
+
+## Installation FFmpeg
+<img width="942" height="397" alt="Screenshot 2026-03-28 224638" src="https://github.com/user-attachments/assets/310181b6-46d7-427d-afdd-cac9fdc13b84" />
+
+## Transcoding the videos
+<img width="1276" height="855" alt="Screenshot 2026-03-29 004521" src="https://github.com/user-attachments/assets/f79562ac-6956-413c-b983-aadb33148955" />
+
+## Dash manifest
+<img width="899" height="696" alt="Screenshot 2026-03-29 100240" src="https://github.com/user-attachments/assets/315b5ce9-e9fa-4f35-ac42-d6cee4d6fed7" />
+
+
+## Dash Connection and SCTP traffic
+<img width="951" height="528" alt="Screenshot 2026-03-29 200107" src="https://github.com/user-attachments/assets/97d8e842-6c53-45a3-89f7-0b161a689860" />
+
+## MOS Comparing Table 
+<img width="668" height="229" alt="image" src="https://github.com/user-attachments/assets/a73ecbc7-28c4-460f-90d3-8324bb4da55b" />
+
+
